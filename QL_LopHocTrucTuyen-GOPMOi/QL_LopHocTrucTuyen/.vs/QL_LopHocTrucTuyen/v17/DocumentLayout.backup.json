@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|d:\\vs_code\\project\\project-c#\\ql_lophoctructuyen\\ql_lophoctructuyen-gopmoi\\ql_lophoctructuyen\\ql_lophoctructuyen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|solutionrelative:ql_lophoctructuyen\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|d:\\vs_code\\project\\project-c#\\ql_lophoctructuyen\\ql_lophoctructuyen-gopmoi\\ql_lophoctructuyen\\ql_lophoctructuyen\\models\\dataclasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|solutionrelative:ql_lophoctructuyen\\models\\dataclasses1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|d:\\vs_code\\project\\project-c#\\ql_lophoctructuyen\\ql_lophoctructuyen-gopmoi\\ql_lophoctructuyen\\ql_lophoctructuyen\\models\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|solutionrelative:ql_lophoctructuyen\\models\\dataclasses1.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|d:\\vs_code\\project\\project-c#\\ql_lophoctructuyen\\ql_lophoctructuyen-gopmoi\\ql_lophoctructuyen\\ql_lophoctructuyen\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|solutionrelative:ql_lophoctructuyen\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|d:\\vs_code\\project\\project-c#\\ql_lophoctructuyen\\ql_lophoctructuyen-gopmoi\\ql_lophoctructuyen\\ql_lophoctructuyen\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E70226-5B1E-4C2F-8555-B78470C9C63D}|QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen.csproj|solutionrelative:ql_lophoctructuyen\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataClasses1.designer.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Models\\DataClasses1.designer.cs",
+              "RelativeDocumentMoniker": "QL_LopHocTrucTuyen\\Models\\DataClasses1.designer.cs",
+              "ToolTip": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Models\\DataClasses1.designer.cs",
+              "RelativeToolTip": "QL_LopHocTrucTuyen\\Models\\DataClasses1.designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwGAAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:28:28.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiangVienController.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Controllers\\GiangVienController.cs",
+              "RelativeDocumentMoniker": "QL_LopHocTrucTuyen\\Controllers\\GiangVienController.cs",
+              "ToolTip": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Controllers\\GiangVienController.cs",
+              "RelativeToolTip": "QL_LopHocTrucTuyen\\Controllers\\GiangVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:25:47.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataClasses1.dbml",
+              "DocumentMoniker": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Models\\DataClasses1.dbml",
+              "RelativeDocumentMoniker": "QL_LopHocTrucTuyen\\Models\\DataClasses1.dbml",
+              "ToolTip": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Models\\DataClasses1.dbml",
+              "RelativeToolTip": "QL_LopHocTrucTuyen\\Models\\DataClasses1.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2025-01-20T15:27:59.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Web.config",
+              "RelativeDocumentMoniker": "QL_LopHocTrucTuyen\\Web.config",
+              "ToolTip": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Web.config",
+              "RelativeToolTip": "QL_LopHocTrucTuyen\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T15:26:41.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QL_LopHocTrucTuyen\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VS_CODE\\Project\\Project-C#\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen-GOPMOi\\QL_LopHocTrucTuyen\\QL_LopHocTrucTuyen\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QL_LopHocTrucTuyen\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:22:15.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

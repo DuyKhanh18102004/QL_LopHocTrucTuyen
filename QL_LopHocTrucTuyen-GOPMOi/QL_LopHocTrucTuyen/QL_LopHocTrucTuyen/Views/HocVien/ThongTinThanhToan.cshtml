@@ -1,0 +1,56 @@
+﻿﻿@model IEnumerable<QL_LopHocTrucTuyen.Models.ThanhToan>
+
+@{
+    ViewBag.Title = "ThongTinThanhToan";
+    Layout = "~/Views/Shared/_LayoutHocVien.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary mb-4">
+        <i class="fas fa-money-bill-wave me-2"></i>Danh sách Thanh Toán
+    </h2>
+    @if (Model != null)
+    {
+        <div class="table-responsive mx-auto" style="max-width: 900px;">
+            <table class="table table-bordered text-center">
+                <thead class="table-success">
+                    <tr>
+                        <th><i class="fas fa-dollar me-2"></i>Mã thanh toán</th>
+                        <th><i class="fas fa-book me-2"></i>Tên khoá học</th>
+                        <th><i class="fas fa-dollar-sign me-2"></i>Số Tiền</th>
+                        <th><i class="fas fa-dollar-sign me-2"></i>Thực trả</th>
+                        <th><i class="fas fa-calendar-alt me-2"></i>Ngày Thanh toán</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        foreach (var i in item.ChiTietThanhToans)
+                        {
+                            <tr>
+                                <td>@item.MaThanhToan</td>
+                                <td>@i.DangKies.FirstOrDefault().KhoaHoc.TenKhoaHoc</td>
+                                <td>@string.Format("{0:#,0} VNĐ", i.SoTien)</td>
+                                @{
+                            decimal giam = 0;
+                            if (i.GiamGia != null)
+                            {
+                                giam = decimal.Parse(i.SoTien.ToString()) * decimal.Parse(i.GiamGia.PhanTramGiam.ToString()) / 100;
+                            }
+                                }
+                                <td>@string.Format("{0:#,0} VNĐ", (i.SoTien - giam))</td>
+                                <td>@(item.NgayThanhToan.HasValue ? item.NgayThanhToan.Value.ToString("dd/MM/yyyy") : "Chưa có thông tin")</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center">
+            <i class="fas fa-exclamation-circle me-2"></i>Không có dữ liệu thanh toán.
+        </div>
+    }
+</div>
